@@ -33,6 +33,9 @@ implementasi mata kuliah Pemrograman Web.
 ### Data Dosen
 ![Dosen](screenshots/dosen.png)
 
+### Database
+![Database](screenshots/database.png)
+
 ## 🚀 Cara Menjalankan
 1. Import file `database.sql` ke MySQL/phpMyAdmin
 2. Letakkan folder project di `htdocs` XAMPP
